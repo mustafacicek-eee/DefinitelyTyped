@@ -76,7 +76,6 @@
         "d3-zoom",
         "d3",
         "default-gateway",
-        "delaunator",
         "dom-to-image",
         "dotenv-flow",
         "dplayer",
