@@ -2517,6 +2517,10 @@
             "libraryName": "flux-standard-action",
             "asOfVersion": "1.1.0"
         },
+        "folder-hash": {
+            "libraryName": "folder-hash",
+            "asOfVersion": "4.1.3"
+        },
         "force-graph": {
             "libraryName": "force-graph",
             "asOfVersion": "1.26.0"
