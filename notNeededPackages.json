@@ -2417,6 +2417,10 @@
             "libraryName": "filesize",
             "asOfVersion": "5.0.0"
         },
+        "filesize-parser": {
+            "libraryName": "filesize-parser",
+            "asOfVersion": "1.5.2"
+        },
         "filter-console": {
             "libraryName": "filter-console",
             "asOfVersion": "0.1.1"
