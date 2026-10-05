@@ -2517,6 +2517,10 @@
             "libraryName": "flux-standard-action",
             "asOfVersion": "1.1.0"
         },
+        "fontmin": {
+            "libraryName": "fontmin",
+            "asOfVersion": "1.1.1"
+        },
         "force-graph": {
             "libraryName": "force-graph",
             "asOfVersion": "1.26.0"
