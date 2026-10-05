@@ -2237,6 +2237,10 @@
             "libraryName": "faker",
             "asOfVersion": "6.6.6"
         },
+        "fast-astar": {
+            "libraryName": "fast-astar",
+            "asOfVersion": "2.0.2"
+        },
         "fast-diff": {
             "libraryName": "fast-diff",
             "asOfVersion": "1.2.0"
