@@ -52,6 +52,10 @@
             "libraryName": "adhan",
             "asOfVersion": "4.0.0"
         },
+        "adm-zip": {
+            "libraryName": "adm-zip",
+            "asOfVersion": "0.6.0"
+        },
         "adobe__node-fetch-retry": {
             "libraryName": "@adobe/node-fetch-retry",
             "asOfVersion": "2.1.0"
