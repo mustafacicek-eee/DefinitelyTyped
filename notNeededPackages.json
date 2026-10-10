@@ -1757,6 +1757,10 @@
             "libraryName": "devextreme",
             "asOfVersion": "16.2.1"
         },
+        "device-uuid": {
+            "libraryName": "device-uuid",
+            "asOfVersion": "3.0.6"
+        },
         "devtools-detect": {
             "libraryName": "devtools-detect",
             "asOfVersion": "3.0.0"
